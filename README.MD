@@ -1,4 +1,6 @@
 # Emotion_Detection & Food Recommendation 
 ## Server & Website 
 
-[![my_video](https://youtu.be/tApdfmeP-90/0.jpg)](https://youtu.be/tApdfmeP-90)
+![image](https://user-images.githubusercontent.com/110795502/207794965-549fba09-8147-41a6-84dd-75ed598cf026.png)
+
+https://youtu.be/tApdfmeP-90
